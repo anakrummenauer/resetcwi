@@ -1,4 +1,3 @@
-```Javascript
 //Exercício 1 - Função que recebe argumento e o imprime na tela
 function imprimir(i){
     console.log(i)
@@ -37,4 +36,3 @@ function calcularMargemBruta(receitaLiquidaVendas, custoProdutosVendidos){
     lucroBruto = (receitaLiquidaVendas - custoProdutosVendidos)
     return (lucroBruto / receitaLiquidaVendas) * 100
 }
-```
